@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e3792d88-ae42-452e-a038-1b093cb45198" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/26_Setmana_Ciencia-URV/src/GUI/BotonsFinestra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26_Setmana_Ciencia-URV/src/GUI/MainGrafic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26_Setmana_Ciencia-URV/src/dadesActivitats/Activitat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26_Setmana_Ciencia-URV/src/dadesActivitats/LlistaActivitats.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26_Setmana_Ciencia-URV/src/dadesActivitats/Visita.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26_Setmana_Ciencia-URV/src/dadesActivitats/Xerrada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26_Setmana_Ciencia-URV/src/dadesUsuaris/LlistaUsuaris.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26_Setmana_Ciencia-URV/src/excepcions/FormatNomEntitat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/26_Setmana_Ciencia-URV/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/26_Setmana_Ciencia-URV/Activitat.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/26_Setmana_Ciencia-URV/Entitat.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/26_Setmana_Ciencia-URV/Reserva.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/26_Setmana_Ciencia-URV/Usuari.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/26_Setmana_Ciencia-URV/bin/aplicacio/SetmanaCiencia.class" beforeDir="false" afterPath="$PROJECT_DIR$/26_Setmana_Ciencia-URV/bin/aplicacio/SetmanaCiencia.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/26_Setmana_Ciencia-URV/bin/dadesActivitats/Taller.class" beforeDir="false" afterPath="$PROJECT_DIR$/26_Setmana_Ciencia-URV/bin/dadesActivitats/Taller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/26_Setmana_Ciencia-URV/bin/dadesEntitats/Entitats.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/26_Setmana_Ciencia-URV/bin/dadesEntitats/LlistaEntitats.class" beforeDir="false" afterPath="$PROJECT_DIR$/26_Setmana_Ciencia-URV/bin/dadesEntitats/LlistaEntitats.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/26_Setmana_Ciencia-URV/bin/dadesReserva/LlistaReserva.class" beforeDir="false" afterPath="$PROJECT_DIR$/26_Setmana_Ciencia-URV/bin/dadesReserva/LlistaReserva.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/26_Setmana_Ciencia-URV/bin/dadesReserva/Reserva.class" beforeDir="false" afterPath="$PROJECT_DIR$/26_Setmana_Ciencia-URV/bin/dadesReserva/Reserva.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/26_Setmana_Ciencia-URV/bin/dadesUsuaris/Usuari.class" beforeDir="false" afterPath="$PROJECT_DIR$/26_Setmana_Ciencia-URV/bin/dadesUsuaris/Usuari.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/26_Setmana_Ciencia-URV/src/aplicacio/SetmanaCiencia.java" beforeDir="false" afterPath="$PROJECT_DIR$/26_Setmana_Ciencia-URV/src/aplicacio/SetmanaCiencia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/26_Setmana_Ciencia-URV/src/dadesActivitats/Taller.java" beforeDir="false" afterPath="$PROJECT_DIR$/26_Setmana_Ciencia-URV/src/dadesActivitats/Taller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/26_Setmana_Ciencia-URV/src/dadesEntitats/Entitats.java" beforeDir="false" afterPath="$PROJECT_DIR$/26_Setmana_Ciencia-URV/src/dadesEntitats/Entitat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/26_Setmana_Ciencia-URV/src/dadesEntitats/LlistaEntitats.java" beforeDir="false" afterPath="$PROJECT_DIR$/26_Setmana_Ciencia-URV/src/dadesEntitats/LlistaEntitats.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/26_Setmana_Ciencia-URV/src/dadesReserva/LlistaReserva.java" beforeDir="false" afterPath="$PROJECT_DIR$/26_Setmana_Ciencia-URV/src/dadesReserva/LlistaReserva.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/26_Setmana_Ciencia-URV/src/dadesReserva/Reserva.java" beforeDir="false" afterPath="$PROJECT_DIR$/26_Setmana_Ciencia-URV/src/dadesReserva/Reserva.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/26_Setmana_Ciencia-URV/src/dadesUsuaris/Usuari.java" beforeDir="false" afterPath="$PROJECT_DIR$/26_Setmana_Ciencia-URV/src/dadesUsuaris/Usuari.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/26_Setmana_Ciencia-URV/src/jocProves/provesReserves.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TerceraPractica-PR-2023.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../TerceraPractica-PR-2023.pdf" afterDir="false" />
+    </list>
+    <list id="43614ecb-5bdc-404e-9911-ebdcdfbc33a8" name="Changes by paufe" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2ZrDLPgSY6apiKmqMCE0DSEopLh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-21&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Florian/Desktop/GEI_3r/1r_Quad/5_Progra/Labs/3ra_Practica/26_Setmana-de-la-Ciencia-URV&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Florian\Desktop\GEI_3r\1r_Quad\5_Progra\Labs\3ra_Practica\26_Setmana-de-la-Ciencia-URV\Setmana_Cien_URV_Consola\src\aplicacio" />
+      <recent name="C:\Users\Florian\Desktop\GEI_3r\1r_Quad\5_Progra\Labs\3ra_Practica\26_Setmana-de-la-Ciencia-URV\Setmana_Cien_URV_Consola" />
+      <recent name="C:\Users\Florian\Desktop\GEI_3r\1r_Quad\5_Progra\Labs\3ra_Practica\26_Setmana-de-la-Ciencia-URV\Setmana_Cien_URV_Consola\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SetmanaCiencia">
+    <configuration name="Activitat10_dies (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Activitat10_dies" />
+      <module name="Setmana_Cien_URV_Consola" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Activitat10_dies" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Activitat10_dies" />
+      <module name="SetmanaCienURV_Grafica" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainGrafic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GUI.MainGrafic" />
+      <module name="Setmana_Cien_URV_Consola" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GUI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SetmanaCiencia" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aplicacio.SetmanaCiencia" />
+      <module name="Setmana_Cien_URV_Consola" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aplicacio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainGrafic" />
+        <item itemvalue="Application.Activitat10_dies (1)" />
+        <item itemvalue="Application.Activitat10_dies" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e3792d88-ae42-452e-a038-1b093cb45198" name="Changes" comment="" />
+      <created>1703171250677</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703171250677</updated>
+    </task>
+    <servers />
+  </component>
+</project>

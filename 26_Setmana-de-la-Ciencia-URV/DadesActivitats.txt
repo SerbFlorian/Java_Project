@@ -1,0 +1,124 @@
+Sortida1;Sor99;Tarragona;43007;9;Entitat =>
+	Nom entitat: Google,
+	Numero de telefon: 678563917,
+	correu electronic de contacte: google@gmail.com
+Sortida2;Sor100;Tarragona;43007;9;Entitat =>
+	Nom entitat: Apple,
+	Numero de telefon: 678563917,
+	correu electronic de contacte: apple@gmail.com
+Sortida3;Sor101;Tarragona;43007;12;Entitat =>
+	Nom entitat: Amazon,
+	Numero de telefon: 654816195,
+	correu electronic de contacte: amazon@gmail.com
+Sortida4;Sor102;Tarragona;43007;1;Entitat =>
+	Nom entitat: Google,
+	Numero de telefon: 123415123,
+	correu electronic de contacte: google@gmail.com
+Sortida5;Sor103;Tarragona;43007;2;Entitat =>
+	Nom entitat: Google,
+	Numero de telefon: 678563917,
+	correu electronic de contacte: google@gmail.com
+Sortida6;Sor104;Tarragona;43007;2;Entitat =>
+	Nom entitat: Amazon,
+	Numero de telefon: 678563917,
+	correu electronic de contacte: amazon@gmail.com
+Sortida7;Sor105;Tarragona;43007;3;Entitat =>
+	Nom entitat: Google,
+	Numero de telefon: 652134153,
+	correu electronic de contacte: google@gmail.com
+Sortida8;Sor106;Tarragona;43007;5;Entitat =>
+	Nom entitat: Amazon,
+	Numero de telefon: 678563917,
+	correu electronic de contacte: google@gmail.com
+Sortida9;Sor107;Tarragona;43007;12;Entitat =>
+	Nom entitat: Tesla,
+	Numero de telefon: 412351235,
+	correu electronic de contacte: tesla@gmail.com
+Sortida10;Sor108;Tarragona;43007;12;Entitat =>
+	Nom entitat: Google,
+	Numero de telefon: 678563917,
+	correu electronic de contacte: google@gmail.com
+Xarla1;Xar109;Barcelona;43001;9;Entitat =>
+	Nom entitat: Microsoft,
+	Numero de telefon: 659105629,
+	correu electronic de contacte: microsoft@gmail.com
+Xarla2;Xar110;Barcelona;43001;9;Entitat =>
+	Nom entitat: Microsoft,
+	Numero de telefon: 659105629,
+	correu electronic de contacte: microsoft@gmail.com
+Xarla3;Xar111;Barcelona;43001;15;Entitat =>
+	Nom entitat: Microsoft,
+	Numero de telefon: 901231233,
+	correu electronic de contacte: microsoft@gmail.com
+Xarla4;Xar112;Barcelona;43001;4;Entitat =>
+	Nom entitat: Microsoft,
+	Numero de telefon: 231231233,
+	correu electronic de contacte: microsoft@gmail.com
+Xarla5;Xar113;Barcelona;43001;3;Entitat =>
+	Nom entitat: Microsoft,
+	Numero de telefon: 659105629,
+	correu electronic de contacte: microsoft@gmail.com
+Xarla6;Xar114;Barcelona;43001;1;Entitat =>
+	Nom entitat: Microsoft,
+	Numero de telefon: 512315612,
+	correu electronic de contacte: microsoft@gmail.com
+Xarla7;Xar115;Barcelona;43001;2;Entitat =>
+	Nom entitat: Microsoft,
+	Numero de telefon: 871235123,
+	correu electronic de contacte: microsoft@gmail.com
+Xarla8;Xar116;Barcelona;43001;15;Entitat =>
+	Nom entitat: Microsoft,
+	Numero de telefon: 659105629,
+	correu electronic de contacte: microsoft@gmail.com
+Xarla9;Xar117;Barcelona;43001;1;Entitat =>
+	Nom entitat: Microsoft,
+	Numero de telefon: 923178123,
+	correu electronic de contacte: microsoft@gmail.com
+Xarla10;Xar118;Barcelona;43001;15;Entitat =>
+	Nom entitat: Microsoft,
+	Numero de telefon: 659105629,
+	correu electronic de contacte: microsoft@gmail.com
+Manualitats1;Man119;Manresa;42540;20;Entitat =>
+	Nom entitat: Lenovo,
+	Numero de telefon: 649674656,
+	correu electronic de contacte: lenovo@gmail.com;15;30
+Manualitats1;Man120;Manresa;42540;20;Entitat =>
+	Nom entitat: Lenovo,
+	Numero de telefon: 187273123,
+	correu electronic de contacte: lenovo@gmail.com;15;30
+Manualitats1;Man121;Manresa;42540;9;Entitat =>
+	Nom entitat: Lenovo,
+	Numero de telefon: 649674656,
+	correu electronic de contacte: lenovo@gmail.com;15;30
+Manualitats1;Man122;Manresa;42540;9;Entitat =>
+	Nom entitat: Lenovo,
+	Numero de telefon: 102432323,
+	correu electronic de contacte: lenovo@gmail.com;15;30
+Manualitats1;Man123;Manresa;42540;20;Entitat =>
+	Nom entitat: Lenovo,
+	Numero de telefon: 649674656,
+	correu electronic de contacte: lenovo@gmail.com;15;30
+Manualitats1;Man124;Manresa;42540;20;Entitat =>
+	Nom entitat: Lenovo,
+	Numero de telefon: 671231412,
+	correu electronic de contacte: lenovo@gmail.com;15;30
+Manualitats1;Man125;Manresa;42540;2;Entitat =>
+	Nom entitat: Lenovo,
+	Numero de telefon: 817231233,
+	correu electronic de contacte: lenovo@gmail.com;15;30
+Manualitats1;Man126;Manresa;42540;1;Entitat =>
+	Nom entitat: Lenovo,
+	Numero de telefon: 649674656,
+	correu electronic de contacte: lenovo@gmail.com;15;30
+Manualitats1;Man127;Manresa;42540;5;Entitat =>
+	Nom entitat: Lenovo,
+	Numero de telefon: 892131232,
+	correu electronic de contacte: lenovo@gmail.com;15;30
+Manualitats1;Man128;Manresa;42540;2;Entitat =>
+	Nom entitat: Lenovo,
+	Numero de telefon: 649674656,
+	correu electronic de contacte: lenovo@gmail.com;15;30
+Manualitats1;Man129;Manresa;42540;7;Entitat =>
+	Nom entitat: Lenovo,
+	Numero de telefon: 649674656,
+	correu electronic de contacte: lenovo@gmail.com;15;30
